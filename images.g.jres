@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA3QAAAAAAAADQAAAAAAAAgNAAAAAAAAD4iIiICAAAgBjY3QgIAACA+NjdCCIAAIgYiIiIAAAAAIiIDYAAAAAAiAgNIAAAAAAAiN0gAgAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sanic"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQERkZgAAAABABAAAAAAAIAJSBUREBAAgJyJVBAAAACACUgVERAQAAEAEAAAAAAAAQEREBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "samus"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAIgAAAAAAAAAiDwAAAAAAAPAiAAAAAAAAAiIABAAAAPAl+7sk8gIAABK7uyQADwDwJfu7JAIAAAACIgAELwAAAPAiAADwAgAAIg8AAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "firecat"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAADAAAAAAAAAzMwMAAAAAMDMzAwIAAAAwgzEjAgAAADAzMwMAAAAAMDMzAwAAAAAwgzEjAgAAADAzMwMCAADgDjMzAwAAAOAOADAAAAAA4O7uMwAAAADgDgAAAAAAAOAOAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "kirbo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
